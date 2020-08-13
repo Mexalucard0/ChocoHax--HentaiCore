@@ -1,17 +1,18 @@
 # ChocoHax--HentaiCore
 ChocoHax (A sweet way to fuck cheaters) is a reliable solution against cheaters The first real Anti-Cheat for FiveM... We are the frontline against cheaters
 
-Updates:
+# Updates:
 You can download the latest update everytime you want from our discord in a dedicated area.
 
-Support:
+# Support:
 A friendly community will always support you, and we are ready to answer to any question.
 
-Why:
+# Why:
 This community born developing cheats for FiveM but something went wrong
 We have more than 1 year of experience developing anti-cheats
 
-Lynx Collective HentaiCore AC
+#Lynx Collective HentaiCore AC
+
 All informations below are only STABLE/TESTED features... for more informations open a ticket.
 Anti Menu Injection - This will protect you from any lua based mod menu
 SECLY V5 - This will detect and ban any injected lua based mod menu
