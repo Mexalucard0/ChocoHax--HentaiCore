@@ -11,7 +11,7 @@ A friendly community will always support you, and we are ready to answer to any 
 This community born developing cheats for FiveM but something went wrong
 We have more than 1 year of experience developing anti-cheats
 
-#Lynx Collective HentaiCore AC
+#                 Lynx Collective HentaiCore AC
 
 All informations below are only STABLE/TESTED features... for more informations open a ticket.
 Anti Menu Injection - This will protect you from any lua based mod menu
